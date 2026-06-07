@@ -296,6 +296,7 @@ Challenge your friends in MULTIPLAYER mode!
   * [/r/TelegramStickersShare](https://www.reddit.com/r/TelegramStickersShare): Stickers subreddit.
   * [/r/TelegramBots](https://www.reddit.com/r/TelegramBots): Bots subreddit.
 * [Telegram Developers Community](https://storebot.me/)
+* [Telegram Grupos](https://www.telegram-grupos.com/) – Brazilian directory of verified Telegram groups, channels and bots, organized by category and city (PT/EN/ES).
 
 
 ## Security
